@@ -36,6 +36,7 @@ JAVA를 공부하면서 객체지향적으로 프로그래밈을 만드는 법�
 gradeCalculator
 > src  // 소스코드
 	> school  // 주요 class들이 위치한 package
+		> School.class
 		> Score.class
 		> Student.class
 		> Subject.class
