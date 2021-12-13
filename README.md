@@ -18,18 +18,6 @@ JAVA를 공부하면서 객체지향적으로 프로그래밈을 만드는 법�
 
 <br/>
 
-## 프로젝트 구성
-
-School class
-
-Student class
-
-Subject class
-
-Score class
-
-
-
 ## Class Diagram
 
 ![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml.puml)
@@ -37,3 +25,25 @@ Score class
 ![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml2.puml)
 
 ![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml3.puml)
+
+<br/>
+
+<br/>
+
+## 프로젝트 폴더 구성
+
+~~~bash
+gradeCalculator
+> src  // 소스코드
+	> school  // 주요 class들이 위치한 package
+		> Score.class
+		> Student.class
+		> Subject.class
+	> utils 
+		> Define.class  // 프로그램에서 사용되는 상수 class 
+> uml  // class diagram
+	> gradeCalculatorUml.puml
+	> gradeCalculatorUml2.puml
+	> gradeCalculatorUml3.puml
+~~~
+
