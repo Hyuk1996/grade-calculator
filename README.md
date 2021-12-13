@@ -34,3 +34,6 @@ Score class
 
 ![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml.puml)
 
+![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml2.puml)
+
+![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml3.puml)
