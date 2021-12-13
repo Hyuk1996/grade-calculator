@@ -1,0 +1,11 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+interface GradeEvaluation
+class BasicEvaluation
+class MajorEvaluation
+
+GradeEvaluation <-- BasicEvaluation
+GradeEvaluation <-- MajorEvaluation
+
+@enduml

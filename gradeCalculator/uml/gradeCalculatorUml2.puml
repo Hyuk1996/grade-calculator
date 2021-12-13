@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Student
+class Subject
+class Score
+
+Student o-- Score
+Subject o-- Student
+Subject -- Score
+
+@enduml

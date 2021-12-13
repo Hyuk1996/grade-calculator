@@ -30,3 +30,7 @@ Score class
 
 
 
+## Class Diagram
+
+![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml.puml)
+
