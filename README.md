@@ -20,23 +20,37 @@ JAVA를 공부하면서 객체지향적으로 프로그램을 만드는 법을 �
 
 전공 평가 방식
 
-100~95 : S
-
-~90 : A
-
-~80 : B
-
-~70 : C
-
-~60 : D
-
-F
+| 점수     | 학점 |
+| -------- | ---- |
+| 100 ~ 95 | S    |
+| 94 ~ 90  | A    |
+| 89 ~ 80  | B    |
+| 79 ~ 70  | C    |
+| 69 ~ 60  | D    |
+| 59 ~ 0   | F    |
 
 <br/>
 
 전공 과목이 아닌경우, 해당 과목의 평가방식에 따라 결정됩니다. 
 
-ex) A,B,C,D,F 방식 또는 pass/fail 방식
+일반 과목 평가 방식 1
+
+| 점수    | 학점 |
+| ------- | ---- |
+| 100 ~90 | A    |
+| 89 ~ 80 | B    |
+| 79 ~ 70 | C    |
+| 69 ~ 55 | D    |
+| 54 ~ 0  | D    |
+
+<br/>
+
+일반 과목 평가 방식 2
+
+| 점수     | 학점 |
+| -------- | ---- |
+| 100 ~ 70 | P    |
+| 69 ~ 0   | F    |
 
 <br/>
 
@@ -77,7 +91,6 @@ gradeCalculator
 > uml  // class diagram
 	> gradeCalculatorUml.puml
 	> gradeCalculatorUml2.puml
-	> gradeCalculatorUml3.puml
 	> gradeCalculatorUml4.puml
 ~~~
 
