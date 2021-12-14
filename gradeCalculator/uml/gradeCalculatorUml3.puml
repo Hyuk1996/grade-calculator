@@ -9,4 +9,5 @@ class PassFailEvaluation
 GradeEvaluation <-- BasicEvaluation
 GradeEvaluation <-- MajorEvaluation
 GradeEvaluation <-- PassFailEvaluation
+
 @enduml
