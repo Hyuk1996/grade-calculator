@@ -48,7 +48,7 @@ ex) A,B,C,D,F 방식 또는 pass/fail 방식
 
 ![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml2.puml)
 
-![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml3.puml)
+![class-diagram1](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Hyuk1996/grade-calculator/master/gradeCalculator/uml/gradeCalculatorUml4.puml)
 
 <br/>
 
@@ -78,5 +78,6 @@ gradeCalculator
 	> gradeCalculatorUml.puml
 	> gradeCalculatorUml2.puml
 	> gradeCalculatorUml3.puml
+	> gradeCalculatorUml4.puml
 ~~~
 
