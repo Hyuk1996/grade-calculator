@@ -4,8 +4,9 @@
 interface GradeEvaluation
 class BasicEvaluation
 class MajorEvaluation
+class PassFailEvaluation
 
 GradeEvaluation <-- BasicEvaluation
 GradeEvaluation <-- MajorEvaluation
-
+GradeEvaluation <-- PassFailEvaluation
 @enduml
