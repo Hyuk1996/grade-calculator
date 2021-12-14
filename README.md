@@ -40,6 +40,8 @@ gradeCalculator
 		> BasicEvaluation.java
 		> MajorEvaluation.java
 	> school  // 주요 class들이 위치한 package
+		> report // 학생 성적을 보고해주는 class가 위치한 package
+			> GenerateGradeReport.java
 		> School.java
 		> Score.java
 		> Student.java
