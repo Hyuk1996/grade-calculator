@@ -4,7 +4,7 @@
 
 ## 프로젝트 개발 이유
 
-JAVA를 공부하면서 객체지향적으로 프로그래밈을 만드는 법을 연습하기 위해서 시작한 프로젝트입니다.
+JAVA를 공부하면서 객체지향적으로 프로그램을 만드는 법을 연습하기 위해서 시작한 프로젝트입니다.
 
 <br/>
 
@@ -35,11 +35,15 @@ JAVA를 공부하면서 객체지향적으로 프로그래밈을 만드는 법�
 ~~~bash
 gradeCalculator
 > src  // 소스코드
+	> grade // 학점 평가관련 interface, clas
+		> GradeEvaluation.java
+		> BasicEvaluation.java
+		> MajorEvaluation.java
 	> school  // 주요 class들이 위치한 package
-		> School.class
-		> Score.class
-		> Student.class
-		> Subject.class
+		> School.java
+		> Score.java
+		> Student.java
+		> Subject.java
 	> utils 
 		> Define.class  // 프로그램에서 사용되는 상수 class 
 > uml  // class diagram
