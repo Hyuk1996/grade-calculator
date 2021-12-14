@@ -46,6 +46,8 @@ gradeCalculator
 		> Score.java
 		> Student.java
 		> Subject.java
+	> test // test가 이루어지는 곳
+		> TestMain.java
 	> utils 
 		> Define.class  // 프로그램에서 사용되는 상수 class 
 > uml  // class diagram
